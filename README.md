@@ -11,7 +11,7 @@
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
 </div>
-
+<br>
 <div align="center">
   <a href="https://github.com/PatrickyLucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickyLucas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
