@@ -1,4 +1,4 @@
-### Olá! Eu sou o Patricky Lucas 👋
+### Olá mundo! Eu sou o Patricky Lucas 👋
 
 - 📫 Contate-me no email: patrickylucas@hotmail.com 
 - 📚 Atualmente cursando: Análise e Desenvolvimento de Sistemas - Uninter.
