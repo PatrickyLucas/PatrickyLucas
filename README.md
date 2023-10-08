@@ -1,7 +1,7 @@
 ### Olá mundo! Eu sou o Patricky Lucas 👋
 
 - 📫 Contate-me no email: patrickylucas@hotmail.com 
-- 📚 Atualmente cursando: Análise e Desenvolvimento de Sistemas - Uninter.
+- 🌱 Atualmente cursando: Análise e Desenvolvimento de Sistemas - Uninter.
 - 👀 Áreas de maior interesse: Back-End, Machine Learning & Data Science.
 - 💻 Conhecimento em:
 <div display="inline">
