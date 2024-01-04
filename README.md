@@ -1,6 +1,5 @@
 
-![LOGO GITHUB (4)](https://github.com/PatrickyLucas/PatrickyLucas/assets/115121866/550b4e1d-aa9e-44f2-bb9c-d1c7752effee)
-
+![LOGO GITHUB (5)](https://github.com/PatrickyLucas/PatrickyLucas/assets/115121866/4f888559-4e47-414e-99dc-a1cdebef9276)
 
 
 - 📫 Contate-me no email: patrickylucas@hotmail.com 
