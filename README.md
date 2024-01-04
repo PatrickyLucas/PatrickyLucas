@@ -1,4 +1,6 @@
-### Olá mundo! Eu sou o Patricky Lucas 👋
+
+![LOGO GITHUB](https://github.com/PatrickyLucas/PatrickyLucas/assets/115121866/ac96b161-254b-4130-bdbc-e54a414ef190)
+
 
 - 📫 Contate-me no email: patrickylucas@hotmail.com 
 - 🌱 Atualmente cursando: Análise e Desenvolvimento de Sistemas - Uninter.
