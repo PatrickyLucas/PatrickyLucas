@@ -1,5 +1,5 @@
 
-![LOGO GITHUB (9)](https://github.com/PatrickyLucas/PatrickyLucas/assets/115121866/4485aa75-17f7-414f-8766-dfdd97bae0cb)
+![LOGO GITHUB (10)](https://github.com/PatrickyLucas/PatrickyLucas/assets/115121866/420c4bfc-b88d-486a-9ee9-74ff2cc54c39)
 
 - 📫 Contate-me no email: patrickylucas@hotmail.com 
 - 🌱 Atualmente cursando: Análise e Desenvolvimento de Sistemas - Uninter.
